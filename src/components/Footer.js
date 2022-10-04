@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
           <div className="container">
 
             <div className="columns ">
-              <div className="column">
+              <div className="column">    
                 <div>
                   <img src={logo} alt="Capital American Shaman" style={{ width: '234px', height: '112px', maxHeight: 'none' }} />
                 </div>
