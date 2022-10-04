@@ -28,7 +28,7 @@ const Footer = class extends React.Component {
                 </div>
               </div>
               <div className="column"></div>
-              <div className="column">
+              <div className="column">  
                 <h5>SUBSCRIBE</h5>
                 <div id="mc_embed_signup">
                   <form
